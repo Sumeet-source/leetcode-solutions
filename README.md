@@ -1,101 +1,52 @@
-# leetcode-solutions
-Collection of LeetCode questions to ace the coding interview! - Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
+![Build Status](https://github.com/Sumeet-source/leetcode-solutions/actions/workflows/maven.yml/badge.svg)
 
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0001-two-sum](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
-| [0004-median-of-two-sorted-arrays](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
-| [0011-container-with-most-water](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0011-container-with-most-water/) | Medium |
-| [0014-longest-common-prefix](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0014-longest-common-prefix/) | Easy |
-| [0015-3sum](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0015-3sum/) | Medium |
-| [0016-3sum-closest](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0016-3sum-closest/) | Medium |
-| [0018-4sum](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0018-4sum/) | Medium |
-## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0001-two-sum](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
-| [0003-longest-substring-without-repeating-characters](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
-| [0012-integer-to-roman](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0012-integer-to-roman/) | Medium |
-| [0013-roman-to-integer](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
-| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Sumeet-source/leetcode-solutions/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
-## Two Pointers
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0005-longest-palindromic-substring](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
-| [0011-container-with-most-water](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0011-container-with-most-water/) | Medium |
-| [0015-3sum](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0015-3sum/) | Medium |
-| [0016-3sum-closest](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0016-3sum-closest/) | Medium |
-| [0018-4sum](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0018-4sum/) | Medium |
-## String
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0003-longest-substring-without-repeating-characters](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
-| [0005-longest-palindromic-substring](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
-| [0006-zigzag-conversion](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0006-zigzag-conversion/) | Medium |
-| [0008-string-to-integer-atoi](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0008-string-to-integer-atoi/) | Medium |
-| [0010-regular-expression-matching](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0010-regular-expression-matching/) | Hard |
-| [0012-integer-to-roman](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0012-integer-to-roman/) | Medium |
-| [0013-roman-to-integer](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
-| [0014-longest-common-prefix](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0014-longest-common-prefix/) | Easy |
-| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Sumeet-source/leetcode-solutions/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
-## Dynamic Programming
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0005-longest-palindromic-substring](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
-| [0010-regular-expression-matching](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0010-regular-expression-matching/) | Hard |
-## Linked List
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0002-add-two-numbers](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0002-add-two-numbers/) | Medium |
-## Math
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0002-add-two-numbers](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0002-add-two-numbers/) | Medium |
-| [0007-reverse-integer](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0007-reverse-integer/) | Medium |
-| [0009-palindrome-number](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0009-palindrome-number/) | Easy |
-| [0012-integer-to-roman](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0012-integer-to-roman/) | Medium |
-| [0013-roman-to-integer](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
-| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Sumeet-source/leetcode-solutions/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
-## Recursion
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0002-add-two-numbers](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0002-add-two-numbers/) | Medium |
-| [0010-regular-expression-matching](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0010-regular-expression-matching/) | Hard |
-## Sliding Window
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0003-longest-substring-without-repeating-characters](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
-## Binary Search
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0004-median-of-two-sorted-arrays](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
-## Divide and Conquer
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0004-median-of-two-sorted-arrays](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
-## Greedy
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0011-container-with-most-water](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0011-container-with-most-water/) | Medium |
-## Trie
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0014-longest-common-prefix](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0014-longest-common-prefix/) | Easy |
-## Sorting
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0015-3sum](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0015-3sum/) | Medium |
-| [0016-3sum-closest](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0016-3sum-closest/) | Medium |
-| [0018-4sum](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0018-4sum/) | Medium |
-## Combinatorics
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Sumeet-source/leetcode-solutions/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
-## Counting
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Sumeet-source/leetcode-solutions/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
-<!---LeetCode Topics End-->
+# 🚀 LeetCode Solutions
+
+> **Java solutions to LeetCode problems with automated testing and CI/CD pipeline**
+
+[![Java](https://img.shields.io/badge/Java-17-orange)](https://www.oracle.com/java/technologies/javase-jdk17-downloads.html)
+[![Maven](https://img.shields.io/badge/Maven-3.9-blue)](https://maven.apache.org/)
+[![JUnit](https://img.shields.io/badge/JUnit-5.10-green)](https://junit.org/junit5/)
+[![GitHub Actions](https://img.shields.io/badge/CI-GitHub%20Actions-purple)](https://github.com/features/actions)
+
+---
+
+## 📊 Solutions
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | ✅ |
+| 15 | [3Sum](https://leetcode.com/problems/3sum/) | 🟡 Medium | ✅ |
+| 16 | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | 🟡 Medium | ✅ |
+| 18 | [4Sum](https://leetcode.com/problems/4sum/) | 🟡 Medium | ✅ |
+| 3518 | [Smallest Palindromic Rearrangement II](https://leetcode.com/problems/smallest-palindromic-rearrangement-ii/) | 🔴 Hard | ✅ |
+
+*More solutions coming soon...*
+
+---
+
+## 🛠️ Tech Stack
+
+| Technology | Purpose |
+|------------|---------|
+| **Java 17** | Core programming language |
+| **JUnit 5** | Unit testing framework |
+| **Apache Maven** | Build automation & dependency management |
+| **GitHub Actions** | Continuous Integration (CI) pipeline |
+
+---
+
+## 🧪 Run Tests Locally
+
+```bash
+# Clone the repository
+git clone https://github.com/Sumeet-source/leetcode-solutions.git
+
+# Navigate to the project
+cd leetcode-solutions
+
+# Run all tests
+mvn clean test
+
+# Build the project
+mvn clean package
