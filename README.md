@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0016-3sum-closest/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -25,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0016-3sum-closest/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -84,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0016-3sum-closest/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
