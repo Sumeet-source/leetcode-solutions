@@ -130,10 +130,12 @@ mvn clean package
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0112-path-sum](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0112-path-sum/) | Easy |
+| [0437-path-sum-iii](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0437-path-sum-iii/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0112-path-sum](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0112-path-sum/) | Easy |
+| [0437-path-sum-iii](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0437-path-sum-iii/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -142,4 +144,5 @@ mvn clean package
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0112-path-sum](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0112-path-sum/) | Easy |
+| [0437-path-sum-iii](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0437-path-sum-iii/) | Medium |
 <!---LeetCode Topics End-->
