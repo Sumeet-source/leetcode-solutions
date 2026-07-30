@@ -75,11 +75,13 @@ mvn clean package
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
+| [0069-sqrtx](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0069-sqrtx/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0066-plus-one](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
+| [0069-sqrtx](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0069-sqrtx/) | Easy |
 | [0412-fizz-buzz](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sumeet-source/leetcode-solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 ## String
