@@ -118,6 +118,7 @@ mvn clean package
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -150,4 +151,8 @@ mvn clean package
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 <!---LeetCode Topics End-->
