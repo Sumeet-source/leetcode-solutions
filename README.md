@@ -86,6 +86,7 @@ mvn clean package
 | [0067-add-binary](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
+| [0202-happy-number](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0202-happy-number/) | Easy |
 | [0412-fizz-buzz](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0507-perfect-number](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0507-perfect-number/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sumeet-source/leetcode-solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -131,6 +132,7 @@ mvn clean package
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
+| [0202-happy-number](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0202-happy-number/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -174,4 +176,5 @@ mvn clean package
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
+| [0202-happy-number](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0202-happy-number/) | Easy |
 <!---LeetCode Topics End-->
