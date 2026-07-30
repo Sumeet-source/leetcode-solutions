@@ -74,6 +74,7 @@ mvn clean package
 | [0088-merge-sorted-array](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0118-pascals-triangle](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0136-single-number](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0136-single-number/) | Easy |
+| [0414-third-maximum-number](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0414-third-maximum-number/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -140,6 +141,7 @@ mvn clean package
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
+| [0414-third-maximum-number](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0414-third-maximum-number/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
