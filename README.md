@@ -89,6 +89,7 @@ mvn clean package
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0058-length-of-last-word](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
 | [0412-fizz-buzz](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0412-fizz-buzz/) | Easy |
@@ -145,4 +146,8 @@ mvn clean package
 | ------- | ------- |
 | [0112-path-sum](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0112-path-sum/) | Easy |
 | [0437-path-sum-iii](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0437-path-sum-iii/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
