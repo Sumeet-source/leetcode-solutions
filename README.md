@@ -71,6 +71,7 @@ mvn clean package
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0066-plus-one](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0066-plus-one/) | Easy |
+| [0088-merge-sorted-array](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -117,4 +118,12 @@ mvn clean package
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 <!---LeetCode Topics End-->
