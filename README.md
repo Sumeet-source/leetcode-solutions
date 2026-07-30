@@ -72,6 +72,7 @@ mvn clean package
 | [0035-search-insert-position](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0066-plus-one](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
+| [0118-pascals-triangle](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0136-single-number](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0136-single-number/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -114,6 +115,7 @@ mvn clean package
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
+| [0118-pascals-triangle](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0118-pascals-triangle/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
