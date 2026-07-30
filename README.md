@@ -136,20 +136,24 @@ mvn clean package
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0100-same-tree/) | Easy |
 | [0112-path-sum](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0112-path-sum/) | Easy |
 | [0437-path-sum-iii](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0437-path-sum-iii/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0100-same-tree/) | Easy |
 | [0112-path-sum](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0112-path-sum/) | Easy |
 | [0437-path-sum-iii](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0437-path-sum-iii/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0100-same-tree/) | Easy |
 | [0112-path-sum](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0112-path-sum/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0100-same-tree/) | Easy |
 | [0112-path-sum](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0112-path-sum/) | Easy |
 | [0437-path-sum-iii](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0437-path-sum-iii/) | Medium |
 ## Stack
