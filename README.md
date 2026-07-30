@@ -86,6 +86,7 @@ mvn clean package
 | [0069-sqrtx](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0412-fizz-buzz](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0412-fizz-buzz/) | Easy |
+| [0507-perfect-number](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0507-perfect-number/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sumeet-source/leetcode-solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 ## String
 | Problem Name | Difficulty |
