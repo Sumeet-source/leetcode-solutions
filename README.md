@@ -75,6 +75,7 @@ mvn clean package
 | [0118-pascals-triangle](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0136-single-number](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0136-single-number/) | Easy |
 | [0414-third-maximum-number](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0414-third-maximum-number/) | Easy |
+| [0877-stone-game](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0877-stone-game/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -91,6 +92,7 @@ mvn clean package
 | [0412-fizz-buzz](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0415-add-strings/) | Easy |
 | [0507-perfect-number](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0507-perfect-number/) | Easy |
+| [0877-stone-game](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0877-stone-game/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sumeet-source/leetcode-solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -123,6 +125,7 @@ mvn clean package
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0118-pascals-triangle](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0118-pascals-triangle/) | Easy |
+| [0877-stone-game](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0877-stone-game/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -194,4 +197,8 @@ mvn clean package
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sumeet-source/leetcode-solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
