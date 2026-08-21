@@ -76,11 +76,13 @@ mvn clean package
 | [0136-single-number](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0136-single-number/) | Easy |
 | [0414-third-maximum-number](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0414-third-maximum-number/) | Easy |
 | [0877-stone-game](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0877-stone-game/) | Medium |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Sumeet-source/leetcode-solutions/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0069-sqrtx/) | Easy |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Sumeet-source/leetcode-solutions/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -94,6 +96,7 @@ mvn clean package
 | [0507-perfect-number](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0507-perfect-number/) | Easy |
 | [0877-stone-game](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0877-stone-game/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sumeet-source/leetcode-solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Sumeet-source/leetcode-solutions/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -121,6 +124,7 @@ mvn clean package
 | ------- | ------- |
 | [0067-add-binary](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
 | [0136-single-number](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0136-single-number/) | Easy |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Sumeet-source/leetcode-solutions/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -207,4 +211,12 @@ mvn clean package
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Sumeet-source/leetcode-solutions/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Sumeet-source/leetcode-solutions/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 <!---LeetCode Topics End-->
