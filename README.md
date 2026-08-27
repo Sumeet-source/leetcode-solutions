@@ -108,6 +108,7 @@ mvn clean package
 | [0067-add-binary](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
 | [0412-fizz-buzz](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0415-add-strings/) | Easy |
+| [2000-reverse-prefix-of-word](https://github.com/Sumeet-source/leetcode-solutions/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sumeet-source/leetcode-solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sumeet-source/leetcode-solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Sumeet-source/leetcode-solutions/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
@@ -154,6 +155,7 @@ mvn clean package
 | [0088-merge-sorted-array](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0202-happy-number](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0202-happy-number/) | Easy |
+| [2000-reverse-prefix-of-word](https://github.com/Sumeet-source/leetcode-solutions/tree/main/2000-reverse-prefix-of-word/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -195,6 +197,7 @@ mvn clean package
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [2000-reverse-prefix-of-word](https://github.com/Sumeet-source/leetcode-solutions/tree/main/2000-reverse-prefix-of-word/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
