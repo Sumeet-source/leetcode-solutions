@@ -78,6 +78,7 @@ mvn clean package
 | [0136-single-number](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0136-single-number/) | Easy |
 | [0414-third-maximum-number](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0414-third-maximum-number/) | Easy |
 | [0877-stone-game](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0877-stone-game/) | Medium |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Sumeet-source/leetcode-solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Sumeet-source/leetcode-solutions/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -233,5 +234,6 @@ mvn clean package
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Sumeet-source/leetcode-solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Sumeet-source/leetcode-solutions/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 <!---LeetCode Topics End-->
