@@ -95,6 +95,7 @@ mvn clean package
 | [0069-sqrtx](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0202-happy-number](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0202-happy-number/) | Easy |
+| [0342-power-of-four](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0342-power-of-four/) | Easy |
 | [0412-fizz-buzz](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0415-add-strings/) | Easy |
 | [0507-perfect-number](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0507-perfect-number/) | Easy |
@@ -133,6 +134,7 @@ mvn clean package
 | ------- | ------- |
 | [0067-add-binary](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
 | [0136-single-number](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0136-single-number/) | Easy |
+| [0342-power-of-four](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0342-power-of-four/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Sumeet-source/leetcode-solutions/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -209,6 +211,7 @@ mvn clean package
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0342-power-of-four](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0342-power-of-four/) | Easy |
 | [0509-fibonacci-number](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
