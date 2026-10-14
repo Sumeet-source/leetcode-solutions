@@ -98,6 +98,7 @@ mvn clean package
 | [0412-fizz-buzz](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0415-add-strings/) | Easy |
 | [0507-perfect-number](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0507-perfect-number/) | Easy |
+| [0509-fibonacci-number](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0877-stone-game](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0877-stone-game/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sumeet-source/leetcode-solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -139,11 +140,13 @@ mvn clean package
 | [0022-generate-parentheses](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0070-climbing-stairs](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0118-pascals-triangle](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0118-pascals-triangle/) | Easy |
+| [0509-fibonacci-number](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0877-stone-game](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0877-stone-game/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
+| [0509-fibonacci-number](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -206,6 +209,7 @@ mvn clean package
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0509-fibonacci-number](https://github.com/Sumeet-source/leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
